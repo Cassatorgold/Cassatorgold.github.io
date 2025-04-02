@@ -1,0 +1,24 @@
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GCFUUSSIHO6ZN3RQU3PYW2TNYZRMJRZPZOZIWV2XZZVRNC7VBTGQIU76",
+"GAPUAFQNYAZ36HUUHQ75RKN76F6RWHUUD77526NT4VJ6R5COABUAD66I"]
+
+[DOCUMENTATION]
+ORG_NAME="Cassatorgold.github.io"
+ORG_URL="https://Cassatorgold.github.io"
+ORG_LOGO="https://Cassatorgold.github.io/photo1_2024.png"
+ORG_DESCRIPTION="Gold Eagle Token: Digital representation of physical gold-backed assets"
+ORG_TWITTER="https://x.com/_s_l_a_t_e_"
+
+
+[[CURRENCIES]]
+code="GEG"
+name="Gold Eagle"
+issuer="GCFUUSSIHO6ZN3RQU3PYW2TNYZRMJRZPZOZIWV2XZZVRNC7VBTGQIU76"
+desc = "Gold Eagle: Digital representation of physical gold-backed assets"
+redemption_instructions = "Redeem via Cassator Corp partners"
+image="https://Cassatorgold.github.io/photo1_2024.png"
+status="live"
+display_decimals=7
+fixed_number=10000000000000000000000
